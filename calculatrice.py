@@ -1,3 +1,4 @@
+import math
 def addition(a,b):
     return a+b
 
@@ -13,3 +14,6 @@ def division(a,b):
     
 def puissance(a,b):
     return a**b
+
+def racine_carre(n):
+    return math.sqrt(n)
