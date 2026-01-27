@@ -17,3 +17,6 @@ def puissance(a,b):
 
 def racine_carre(n):
     return math.sqrt(n)
+
+def sinus(n):
+    return math.sin(n)
